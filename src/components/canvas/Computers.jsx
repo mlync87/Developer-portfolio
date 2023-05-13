@@ -5,7 +5,7 @@ import CanvasLoader from "../Loader";
 
 const Computers = () => {
   const computer = useGLTF("./desktop_pc/scene.gltf");
-
+  // this part contains the aspects that will rotate the image displayed
   return (
     <mesh>
       <hemisphereLight intensity={0.15} groundColor="black" />
@@ -19,7 +19,7 @@ const Computers = () => {
     </mesh>
   );
 };
-
+// insert new image here. Think of a new name for this component
 const ComputersCanvas = () => {
   return (
     <Canvas

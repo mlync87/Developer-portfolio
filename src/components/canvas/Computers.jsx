@@ -36,7 +36,7 @@ const ComputersCanvas = () => {
         />
         <Computers />
       </Suspense>
-
+{/* I need to fix this component and change it to marias business profile image */}
       <Preload all />
     </Canvas>
   );

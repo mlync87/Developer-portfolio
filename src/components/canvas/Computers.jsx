@@ -10,6 +10,14 @@ const Computers = () => {
     <mesh>
       <hemisphereLight intensity={0.15} groundColor="black" />
       <pointLight intensity={1} />
+      <spotLight
+        postion={[-20, 50, 10]}
+        angle={0.12}
+        penumbra={1}
+        intensity={1}
+        castShadow
+        shadow-mapSize={1024}
+      />
       <primitive
         object={computer.scene}
         scale={0.75}
@@ -36,10 +44,10 @@ const ComputersCanvas = () => {
         />
         <Computers />
       </Suspense>
-{/* I need to fix this component and change it to marias business profile image */}
+      {/* I need to fix this component and change it to marias business profile image */}
       <Preload all />
     </Canvas>
   );
 };
 
-export default Computers;
+export default ComputersCanvas;

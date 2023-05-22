@@ -14,6 +14,7 @@ const Contact = () => {
     email: "",
     message: "",
   });
+  // look into finding a new kind of spinner that suits the aesthetic
 
   const [loading, setLoading] = useState(false);
 

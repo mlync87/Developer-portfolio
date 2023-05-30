@@ -16,6 +16,7 @@ const Contact = () => {
   });
   // look into finding a new kind of spinner that suits the aesthetic
   // perhaps an nanimation of a sprite
+  // sprites can be genereated
   const [loading, setLoading] = useState(false);
 
   const handleChange = (e) => {

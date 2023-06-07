@@ -17,6 +17,9 @@ const Contact = () => {
   // look into finding a new kind of spinner that suits the aesthetic
   // perhaps an nanimation of a sprite
   // sprites can be genereated
+  // create/add a new customised favicon
+  // change colour scheme
+  // change fonts into cursive
   const [loading, setLoading] = useState(false);
 
   const handleChange = (e) => {

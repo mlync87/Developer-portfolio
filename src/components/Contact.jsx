@@ -21,7 +21,6 @@ const Contact = () => {
   // change colour scheme
   // change fonts into cursive
   // adding snippets to linkedin
-  s;
   const [loading, setLoading] = useState(false);
 
   const handleChange = (e) => {

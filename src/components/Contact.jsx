@@ -20,7 +20,7 @@ const Contact = () => {
   // create/add a new customised favicon
   // change colour scheme
   // change fonts into cursive
-  // adding snippets to linkedin
+
   const [loading, setLoading] = useState(false);
 
   const handleChange = (e) => {

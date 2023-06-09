@@ -17,7 +17,7 @@ const Contact = () => {
   // create a new favicon for tab
   // edit colour scheme
   // add image from business card
-  //
+  // ask the client if they want animation in this image
 
   const [loading, setLoading] = useState(false);
 

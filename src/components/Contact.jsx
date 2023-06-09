@@ -20,6 +20,8 @@ const Contact = () => {
   // create/add a new customised favicon
   // change colour scheme
   // change fonts into cursive
+  // sit down with client and work through colour schemes/themes etc
+  //
 
   const [loading, setLoading] = useState(false);
 

@@ -14,13 +14,9 @@ const Contact = () => {
     email: "",
     message: "",
   });
-  // look into finding a new kind of spinner that suits the aesthetic
-  // perhaps an nanimation of a sprite
-  // sprites can be genereated
-  // create/add a new customised favicon
-  // change colour scheme
-  // change fonts into cursive
-  // sit down with client and work through colour schemes/themes etc
+  // create a new favicon for tab
+  // edit colour scheme
+  // add image from business card
   //
 
   const [loading, setLoading] = useState(false);

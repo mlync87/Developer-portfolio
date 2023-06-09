@@ -18,6 +18,8 @@ const Contact = () => {
   // edit colour scheme
   // add image from business card
   // ask the client if they want animation in this image
+  // change icons on the testimonials section
+  // remove previous statements and add text given to me by client
 
   const [loading, setLoading] = useState(false);
 

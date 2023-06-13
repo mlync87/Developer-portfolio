@@ -20,6 +20,7 @@ const Contact = () => {
   // ask the client if they want animation in this image
   // change icons on the testimonials section
   // remove previous statements and add text given to me by client
+  // prechase domain name "melagracecelebrant"
 
   const [loading, setLoading] = useState(false);
 

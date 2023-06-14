@@ -21,7 +21,7 @@ const Contact = () => {
   // change icons on the testimonials section
   // remove previous statements and add text given to me by client
   // prechase domain name "melagracecelebrant"
-
+  // coordinate on color schemes
   const [loading, setLoading] = useState(false);
 
   const handleChange = (e) => {

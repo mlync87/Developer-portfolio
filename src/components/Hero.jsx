@@ -18,6 +18,7 @@ const Hero = () => {
           </h1>
           {/* perhaps input some more custom details-perhaps some colloquialisms depending on business model */}
           {/* maybe add some more images to go along with this text */}
+          {/* Review fonts */}
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             I'm a Humanist celebrant based in Northern Ireland.{" "}
             <br className="sm:block hidden" />I perform name ceremonies,

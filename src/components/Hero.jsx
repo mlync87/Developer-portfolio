@@ -23,7 +23,7 @@ const Hero = () => {
           </p>
         </div>
       </div>
-
+      {/* input marias profile image here */}
       <ComputersCanvas />
 
       {/* here is where i will create the loading bar that sits at bottom middle of screen */}

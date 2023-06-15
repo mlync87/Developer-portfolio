@@ -24,6 +24,7 @@ const Hero = () => {
         </div>
       </div>
       {/* input marias profile image here */}
+      {/* Wait to sit down with client to see if they want any rotation/spotlight effects */}
       <ComputersCanvas />
 
       {/* here is where i will create the loading bar that sits at bottom middle of screen */}

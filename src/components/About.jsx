@@ -50,7 +50,7 @@ const About = () => {
         Hi! My name is Maria (Mela). I'm a certified humanist celebrant. I can
         perform a variety of cermonies, ranging from naming ceremonies to
         wedding ceremonies. I'm flexible with any and all accomodations you may
-        have for your special days. And I look really hot while doing it too!
+        have for your special days.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">

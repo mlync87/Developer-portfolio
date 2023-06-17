@@ -5,6 +5,7 @@ import { styles } from "../styles";
 import { navLinks } from "../constants";
 import { logo, menu, close } from "../assets";
 // change fonts to cursive and have a look at the colour scheme. Perhamps have some contrast
+// change icon in left corner to custom favicon
 
 const Navbar = () => {
   const [active, setActive] = useState("'");

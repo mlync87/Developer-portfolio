@@ -22,6 +22,7 @@ const Contact = () => {
   // remove previous statements and add text given to me by client
   // prechase domain name "melagracecelebrant"
   // coordinate on color schemes
+  // review code for contact section and tidy up handleChange to be more readable
   const [loading, setLoading] = useState(false);
 
   const handleChange = (e) => {

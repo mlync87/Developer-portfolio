@@ -9,6 +9,7 @@ import { logo, menu, close } from "../assets";
 // change reactivity of menu buttons to custom navigation
 // add animations and drop down menus for when user hovers over buttons
 // create custom images to go along with each menu items
+// have a look at some of the animation when hovering
 const Navbar = () => {
   const [active, setActive] = useState("'");
   const [toggle, setToggle] = useState(false);

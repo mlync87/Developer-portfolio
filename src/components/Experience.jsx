@@ -55,7 +55,7 @@ const ExperienceCard = ({ experience }) => {
     </VerticalTimelineElement>
   );
 };
-
+// change experience icons to custom images
 const Experience = () => {
   return (
     <>

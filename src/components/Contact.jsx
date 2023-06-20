@@ -25,6 +25,7 @@ const Contact = () => {
   // review code for contact section and tidy up handleChange to be more readablegit stu
   // purchase domain name
   // complete routing to client custom email address
+  //
   const [loading, setLoading] = useState(false);
 
   const handleChange = (e) => {

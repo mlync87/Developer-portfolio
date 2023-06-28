@@ -122,7 +122,7 @@ const experiences = [
     iconBg: "#383E56",
     date: "Sept 2022",
     points: [
-      "I named some jerk baby and tolerated their stupid [arents for a day",
+      "I named some jerk baby and tolerated their stupid parents for a day",
       "I uppercutted the parents for looking at me the wrong way",
       "I made custom made candles for naming, lighting etc",
       "I got a McDonalds on the way home which was pretty sweet",
@@ -135,7 +135,7 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Jan 2021",
     points: [
-      "I named some jerk baby and tolerated their stupid [arents for a day",
+      "I named some jerk baby and tolerated their stupid parents for a day",
       "I uppercutted the parents for looking at me the wrong way",
       "I made custom made candles for naming, lighting etc",
       "I got a McDonalds on the way home which was pretty sweet",
@@ -148,7 +148,7 @@ const experiences = [
     iconBg: "#383E56",
     date: "Feb 2023",
     points: [
-      "I named some jerk baby and tolerated their stupid [arents for a day",
+      "I named some jerk baby and tolerated their stupid parents for a day",
       "I uppercutted the parents for looking at me the wrong way",
       "I made custom made candles for naming, lighting etc",
       "I got a McDonalds on the way home which was pretty sweet",

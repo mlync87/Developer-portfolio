@@ -30,3 +30,4 @@ export {
 
 // remove tech section
 // implement new button in hero bar
+// condense images sent by maria

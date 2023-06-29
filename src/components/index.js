@@ -32,3 +32,4 @@ export {
 // implement new button in hero bar
 // condense images sent by maria
 // change colour palette and fade from left to right in background
+// create custom images for services offered"

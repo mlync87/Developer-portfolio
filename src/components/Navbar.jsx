@@ -11,6 +11,7 @@ import { logo, menu, close } from "../assets";
 // create custom images to go along with each menu items
 // have a look at some of the animation when hovering
 // customise image
+// import images
 const Navbar = () => {
   const [active, setActive] = useState("'");
   const [toggle, setToggle] = useState(false);

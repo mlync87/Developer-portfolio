@@ -6,6 +6,7 @@ import {
 import { motion } from "framer-motion";
 // edit experience sections
 // review fonts
+// review spacing
 import "react-vertical-timeline-component/style.min.css";
 
 import { styles } from "../styles";

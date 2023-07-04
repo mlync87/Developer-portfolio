@@ -8,6 +8,7 @@ import { motion } from "framer-motion";
 // review fonts
 // review spacing
 // insert custom images
+// change border to boxes
 import "react-vertical-timeline-component/style.min.css";
 
 import { styles } from "../styles";

@@ -10,6 +10,7 @@ import { motion } from "framer-motion";
 // insert custom images
 // change border to boxes
 // change colour scheme
+// insert animations for boxes
 import "react-vertical-timeline-component/style.min.css";
 
 import { styles } from "../styles";

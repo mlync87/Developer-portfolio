@@ -11,6 +11,7 @@ import { motion } from "framer-motion";
 // change border to boxes
 // change colour scheme
 // insert animations for boxes
+// review youtube tutorials
 import "react-vertical-timeline-component/style.min.css";
 
 import { styles } from "../styles";

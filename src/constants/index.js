@@ -42,19 +42,19 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Weddings",
+    title: "Humanist Celebrant Business Website",
     icon: web,
   },
   {
-    title: "Naming Ceremonies",
+    title: "To Do App",
     icon: mobile,
   },
   {
-    title: "Vow Renewals",
+    title: "Humanist Group Website",
     icon: backend,
   },
   {
-    title: "Custom Ceremonies",
+    title: "Personal Business Booking App",
     icon: creator,
   },
 ];

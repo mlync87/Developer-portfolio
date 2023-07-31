@@ -47,10 +47,9 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        Hi! My name is Maria (Mela). I'm a certified humanist celebrant. I can
-        perform a variety of cermonies, ranging from naming ceremonies to
-        wedding ceremonies. I'm flexible with any and all accomodations you may
-        have for your special days.
+        Hello, my name is Martin. I'm a qualified Full Stack Developer. I have
+        been working on various personal and professional projects since
+        qualifying from the Boolean Full Stack Developer course in March 2023.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">

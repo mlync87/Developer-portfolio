@@ -12,6 +12,7 @@ import { logo, menu, close } from "../assets";
 // have a look at some of the animation when hovering
 // customise image
 // import images
+// use screen snippets converted to jpgs
 // finish work on backend and deploy
 const Navbar = () => {
   const [active, setActive] = useState("'");

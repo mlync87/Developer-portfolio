@@ -14,6 +14,7 @@ import { logo, menu, close } from "../assets";
 // import images
 // use screen snippets converted to jpgs
 // finish work on backend and deploy
+// change color scheme
 const Navbar = () => {
   const [active, setActive] = useState("'");
   const [toggle, setToggle] = useState(false);

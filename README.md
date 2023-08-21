@@ -1,4 +1,5 @@
 A personal developer portfolio. This will include:
+* links to personal projects github code 
 * responsive animations
 * personal and contact info
 * a list of personal projects

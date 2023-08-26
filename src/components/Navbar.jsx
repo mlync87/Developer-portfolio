@@ -89,3 +89,5 @@ const Navbar = () => {
 };
 
 export default Navbar;
+
+// potentially change the colour scheme and add new images

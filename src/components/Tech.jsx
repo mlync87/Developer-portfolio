@@ -5,3 +5,4 @@ const Tech = () => {
 };
 
 export default Tech;
+// import some screenshots of previous projects

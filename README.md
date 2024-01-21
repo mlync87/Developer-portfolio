@@ -2,7 +2,7 @@ A personal developer portfolio. This will include:
 * sliding image display. 
 * links to personal projects github code.
 * a interactive progile image, users can manipulate.
-* responsive animations
+* responsive animations.
 * personal and contact info
 * a list of personal projects.
 * a personal description

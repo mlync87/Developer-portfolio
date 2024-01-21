@@ -3,7 +3,7 @@ A personal developer portfolio. This will include:
 * links to personal projects github code.
 * a interactive progile image, users can manipulate.
 * responsive animations.
-* personal and contact info
+* personal and contact info.
 * a list of personal projects.
 * a personal description
 * a page for prospective employers to contact me directly via email

@@ -1,5 +1,5 @@
 A personal developer portfolio. This will include:
-* sliding image display. 
+* sliding image display
 * links to personal projects github code.
 * a interactive progile image, users can manipulate.
 * responsive animations.
